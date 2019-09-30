@@ -18,12 +18,6 @@ body {
     font-weight: 300;
     margin: 0;
   }
-  
-  header vaadin-combo-box {
-    margin-left: 16px;
-    min-width: 300px;
-  }
-  
   main {
     display: grid;
     grid-gap: 30px;
